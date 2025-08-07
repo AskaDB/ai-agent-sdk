@@ -1,1 +1,1 @@
-README.md
+SDK para integração com agentes LLM
